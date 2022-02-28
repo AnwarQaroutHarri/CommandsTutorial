@@ -2,4 +2,13 @@ Temp folder
 Modified in main branch
 Modified In main branch, moved to sideBranch..
 Fourth line 
+<<<<<<< HEAD
 Fifth line - modified
+=======
+<<<<<<< Updated upstream
+Fifth line
+=======
+Fifth line - modified.
+>>>>>>> Stashed changes
+Sixth line - fetch
+>>>>>>> 90039439c1535d86ed11f7fcd84bd2e4a6c6a072
