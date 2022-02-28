@@ -15,3 +15,4 @@ Sixth line - fetch
 yooo
 hi
 This is a merge conflict test
+Another one
