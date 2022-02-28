@@ -7,3 +7,4 @@ Fifth line
 =======
 Fifth line - modified.
 >>>>>>> Stashed changes
+Sixth line - fetch
