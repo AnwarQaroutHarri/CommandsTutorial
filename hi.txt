@@ -7,3 +7,11 @@ Fifth line
 =======
 Fifth line - modified.
 >>>>>>> Stashed changes
+<<<<<<< Updated upstream
+=======
+Sixth line - fetch
+>>>>>>> 90039439c1535d86ed11f7fcd84bd2e4a6c6a072
+yooo
+hi
+Hi merge
+>>>>>>> Stashed changes
